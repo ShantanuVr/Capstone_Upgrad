@@ -1,0 +1,17 @@
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+
+# Local model DBs (regenerable via src/setup_db.py)
+starter/src/cases.db
+starter/learner/cases.db
+
+# Eval artifacts are kept (JSON results are deliverables)

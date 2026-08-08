@@ -1,0 +1,16 @@
+[
+  {
+    "arm": "v1_rubric (week3 instruction)",
+    "n": 60,
+    "accuracy": 0.75,
+    "under_triage_rate": 0.1167,
+    "er_recall": 0.85
+  },
+  {
+    "arm": "v2_recalibrated_rubric (colloquial red flags)",
+    "n": 60,
+    "accuracy": 0.7,
+    "under_triage_rate": 0.1833,
+    "er_recall": 0.65
+  }
+]
